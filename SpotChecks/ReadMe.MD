@@ -1,15 +1,8 @@
-![logo][] LiquidWare Labs Inc.
-====================
+<br>What is a “Spot Check”<br>
+   The thresholds represented in these documents are at a 1 hour level of granularity unless otherwise specified in the description. Spot Checks are basically point in time health checks. Review of data from multiple dates and times is critical before making changes or recommendations. Normal and High Usage dates and times should be examined based on the industry and user requirements.
 
-Welcome to the Liquidware GitHub Community!<br>
-<br>
-LiquidWare an industry leader and pioneer in desktop virtualization solutions for next-generation physical and virtual desktops, including VMware View®, Citrix® XenDesktop, Red Hat® and Microsoft® Windows®. The company's innovative and award-winning products include Stratusphere™ FIT and Stratusphere™ UX  for desktop visibility; ProfileUnity™ with FlexApp™ and FlexDisk™  for desktop portability; and Flex-IO which supports IOPS acceleration in non-persistent VDI environments.
-
-New to Stratusphere UX™?
-------------------
-
-If you are new to Stratusphere UX™ and would like to learn more, we recommend reviewing the [getting started][] documentation. <br>
-There is also [Video Training] you can review as well.
+  Many years of monitoring and diagnosing systems have allowed our SEs to put this document together. Many of the thresholds are best practices for the hypervisor or the MS Windows OS and some are just industry standards.
+   
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
 [Video Training]: http://training.liquidwarelabs.com/products/stratusphere
