@@ -1,8 +1,8 @@
 What is a “Spot Check”
 --------------
-   The thresholds represented in these documents are at a 1 hour level of granularity unless otherwise specified in the description. Spot Checks are basically point in time health checks. Review of data from multiple dates and times is critical before making changes or recommendations. Normal and High Usage dates and times should be examined based on the industry and user requirements.
+   A Spot Checks is basically a point in time health check that focus on key user experience metrics with known levels of acceptable performance. Review of data from multiple dates and times is critical before making recommendations or changes in the environment. The thresholds represented in these documents are validated by many vendors and experts in the industry.
 
-  Many years of monitoring and diagnosing systems have allowed our SEs to put this document together. Many of the thresholds are best practices for the hypervisor or the MS Windows OS and some are just industry standards.
+   Different solutions on the market collect data in different ways, with different levels of acuracy and granularity. The values in these documents should not be applied to other monitoring or diagnostic solutions as they may not apply or be valid. 
    
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
