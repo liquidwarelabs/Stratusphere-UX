@@ -17,7 +17,6 @@ There is also [Video Training] you can review as well.
 Get Stratusphere UX™
 --------------
 
-You can download and install a PowerShell package for any of the following platforms.
 
 | Downloads              |
 | ---------------------- |
