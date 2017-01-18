@@ -2,7 +2,7 @@ Stratusphere API Automation<br>
 --------------
    The REST API provided in Stratusphere allows access to all of the data in the Stratusphere database. Clients have ask if Stratusphere could automate the API but the shear definition of "REST" is a "PULL" technology. This being said it is up to external systems to pull the data required.<br>
    
-   Stratusphere and the API Build is avaialble: [Video Training]<br>
+   Stratusphere and API Builder Traing is avaialble: [Video Training]<br>
    
    The attached ZIP file has examples of API Pulls and Automation that can be done with Windows.<br>
 
