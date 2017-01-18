@@ -8,17 +8,5 @@ What is a “Amazon WorkSpace Spot Check”
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
 [Video Training]: http://training.liquidwarelabs.com/products/stratusphere
 
-Get Stratusphere UX™
+Get Stratusphere UX - Available in the AWS Interface™
 --------------
-
-
-| Downloads              |
-| ---------------------- |
-| [Liquidware Labs Downloads][Downloads]   |
-
-
-[Downloads]: http://www.liquidwarelabs.com/download
-[logo]: https://avatars3.githubusercontent.com/u/24906944?v=3&s=200
-
-
-
