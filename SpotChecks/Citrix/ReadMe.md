@@ -1,4 +1,4 @@
-What is a “Citrix Spot Check” 
+What is a “Citrix Spot Check”
 --------------
    A "Spot Check" is basically a point in time health check that focuses on key user experience metrics with known levels of acceptable performance. Review of data from multiple dates and times is critical before making recommendations or changes in the environment. The thresholds represented in these documents are validated by many vendors and experts in the industry.
 
