@@ -3,7 +3,7 @@
 
 Welcome to the Liquidware GitHub Community!<br>
 <br>
-LiquidWare an industry leader and pioneer in desktop virtualization solutions for next-generation physical and virtual desktops, including VMware View®, Citrix® XenDesktop, Red Hat® and Microsoft® Windows®. The company's innovative and award-winning products include Stratusphere™ FIT and Stratusphere™ UX  for desktop visibility; ProfileUnity™ with FlexApp™ and FlexDisk™  for desktop portability; and Flex-IO which supports IOPS acceleration in non-persistent VDI environments.
+LiquidWare is an industry leader and pioneer in desktop monitoring, diagnostics, persona managment and application layering  solutions. The company's innovative and award-winning products include Stratusphere™ FIT and Stratusphere™ UX  for desktop visibility; ProfileUnity™ with FlexApp™ for user persona manage, rights managment and application layering.
 
 New to Stratusphere UX™?
 ------------------
