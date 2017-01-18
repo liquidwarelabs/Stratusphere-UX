@@ -1,8 +1,13 @@
 Stratusphere API Automation
 --------------
-   A "Spot Check" is basically a point in time health check that focuses on key user experience metrics with known levels of acceptable performance. Review of data from multiple dates and times is critical before making recommendations or changes in the environment. The thresholds represented in these documents are validated by many vendors and experts in the industry.
+   The REST API provided in Stratusphere allows access to all of the data in the Stratusphere database. Clients have ask if Stratusphere could automate the API but the shear definition of "REST" is a "PULL" technology. This being said it is up to external systems to pull the data required.
+   Stratusphere and the API Build is avaialble: Video_Training
+   
+   The attached ZIP file has examples of API Pulls and Automation that can be done with Windows.
 
-   Different solutions on the market collect data in many ways, with different levels of accuracy and granularity. The values in these documents should not be applied to other monitoring or diagnostic solutions as they may not apply or be valid. These documents are designed for evaluation using Stratusphere UX.
+   
+
+Note: The Stratusphere API MUST be enabled with IP and/or User Based Security to access the information. It is not turned on by default.
    
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
