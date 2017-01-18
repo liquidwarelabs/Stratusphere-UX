@@ -3,7 +3,7 @@
 
 Welcome to the Liquidware GitHub Community!<br>
 <br>
-LiquidWare is an industry leader and pioneer in desktop monitoring, diagnostics, persona managment and application layering  solutions. The company's innovative and award-winning products include Stratusphere™ FIT and Stratusphere™ UX  for desktop visibility; ProfileUnity™ with FlexApp™ for user persona manage, rights managment and application layering.
+LiquidWare Labs is an industry leader and pioneer in desktop monitoring, diagnostics, persona managment and application layering  solutions. The company's innovative and award-winning products include Stratusphere™ FIT and Stratusphere™ UX  for desktop OS  visibility; ProfileUnity™ with FlexApp™ for user persona manage, rights managment and application layering.
 
 New to Stratusphere UX™?
 ------------------
