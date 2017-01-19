@@ -1,6 +1,6 @@
 Stratusphere API Automation<br>
 --------------
-   The JSON REST API provided in Stratusphere allows access to all the data in the Stratusphere database with extensive filters, and query options. Clients have asked if Stratusphere could automate the API but the shear definition of "REST" is a "PULL" technology. This being said, it is up to external systems to pull the data required.<br>
+   The JSON REST API provided in Stratusphere allows access to all the data in the Stratusphere database with extensive filters and query capabilities. Clients have asked if Stratusphere could automate the API but the definition of "REST API" is a "PULL" technology. It is up to external systems to activate the API and pull the data required.<br>
    
    Stratusphere API Builder: [API Blog]<br>
    Stratusphere and API Builder Traing is avaialble: [Video Training]<br>
