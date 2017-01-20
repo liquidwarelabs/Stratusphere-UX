@@ -1,4 +1,4 @@
-What are the Stratusphere Field SE Articles
+What are the Stratusphere SE Field Articles
 --------------
 Field SE Articles are written and updated by Liquidware Labs Field Systems Engineeers. The docs, scripts and content are not supported by Liquidware Labs Inc. The articles in this respository are for our clients and partners and offer examples of how Strautphere could be used.
    
