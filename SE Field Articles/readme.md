@@ -1,8 +1,6 @@
-What are the Stratusphere PowerTools
+What are the Stratusphere Field SE Articles
 --------------
-Stratusphere PowerTools are EXE's and Scripts devloped by Liquidware Labs SEs. No support is implied or give for these tools.
-
-
+Field SE Articles are written and updated by Liquidware Labs Field Systems Engineeers. The docs, scripts and content are not supported by Liquidware Labs Inc. The articles in this respository are for our clients and partners and offer examples of how Strautphere could be used.
    
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
