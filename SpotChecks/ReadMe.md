@@ -5,8 +5,8 @@ What is a “Spot Check”
    Different solutions on the market collect data in many ways, with different levels of accuracy and granularity. The values in these documents should not be applied to other monitoring or diagnostic solutions as they may not apply or be valid. These documents are designed for evaluation using Stratusphere UX.
    
 
-[getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
-[Video Training]: http://training.liquidwarelabs.com/products/stratusphere
+[getting started]: https://liquidware.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
+[Video Training]: http://training.liquidware.com/products/stratusphere
 
 Get Stratusphere UX™
 --------------
@@ -14,10 +14,10 @@ Get Stratusphere UX™
 
 | Downloads              |
 | ---------------------- |
-| [Liquidware Labs Downloads][Downloads]   |
+| [Liquidware Downloads][Downloads]   |
 
 
-[Downloads]: http://www.liquidwarelabs.com/download
+[Downloads]: http://www.liquidware.com/download
 [logo]: https://avatars3.githubusercontent.com/u/24906944?v=3&s=200
 
 
