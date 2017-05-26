@@ -1,6 +1,6 @@
 What are the Stratusphere PowerTools
 --------------
-Stratusphere PowerTools are EXE's and Scripts devloped by Liquidware Labs SEs. No support is implied or give for these tools.
+Stratusphere PowerTools are EXE's and Scripts devloped by Liquidware SEs. No support is implied or give for these tools.
 
 
    
