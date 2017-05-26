@@ -10,8 +10,8 @@ Stratusphere API Automation<br>
 
 Note: The Stratusphere API MUST be enabled with IP and/or User Based Security to access the information. It is not turned on by default.<br>
 
-[Video Training]: http://training.liquidwarelabs.com/products/stratusphere
-[API Blog]: https://blog.liquidwarelabs.com/2014/11/18/stratusphere-5-7-api-builder/
+[Video Training]: http://training.liquidware.com/products/stratusphere
+[API Blog]: https://blog.liquidware.com/2014/11/18/stratusphere-5-7-api-builder/
 
 Get Stratusphere UX™
 --------------
@@ -19,7 +19,7 @@ Get Stratusphere UX™
 
 | Downloads              |
 | ---------------------- |
-| [Liquidware Labs Downloads][Downloads]   |
+| [Liquidware Downloads][Downloads]   |
 
-[Downloads]: http://www.liquidwarelabs.com/download
+[Downloads]: http://www.liquidware.com/download
 [logo]: https://avatars3.githubusercontent.com/u/24906944?v=3&s=200
