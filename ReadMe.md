@@ -11,7 +11,7 @@ New to Stratusphere UX™?
 If you are new to Stratusphere UX™ and would like to learn more, we recommend reviewing the [getting started][] documentation. <br>
 There is also [Video Training] you can review as well.
 
-[getting started]: https://liquidware.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
+[getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
 [Video Training]: http://training.liquidware.com/products/stratusphere
 
 Get Stratusphere UX™
