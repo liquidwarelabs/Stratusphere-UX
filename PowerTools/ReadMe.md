@@ -6,7 +6,7 @@ Stratusphere PowerTools are EXE's and Scripts devloped by Liquidware Labs SEs. N
    
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
-[Video Training]: http://training.liquidwarelabs.com/products/stratusphere
+[Video Training]: http://training.liquidware.com/products/stratusphere
 
 Get Stratusphere UX™
 --------------
@@ -14,10 +14,10 @@ Get Stratusphere UX™
 
 | Downloads              |
 | ---------------------- |
-| [Liquidware Labs Downloads][Downloads]   |
+| [Liquidware Downloads][Downloads]   |
 
 
-[Downloads]: http://www.liquidwarelabs.com/download
+[Downloads]: http://www.liquidware.com/download
 [logo]: https://avatars3.githubusercontent.com/u/24906944?v=3&s=200
 
 
