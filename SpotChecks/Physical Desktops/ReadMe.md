@@ -1,4 +1,4 @@
-What is a “Amazon WorkSpace Spot Check” 
+What is a “Physical Desktop Spot Check” 
 --------------
    A "Spot Check" is basically a point in time health check that focuses on key user experience metrics with known levels of acceptable performance. Review of data from multiple dates and times is critical before making recommendations or changes in the environment. The thresholds represented in these documents are validated by many vendors and experts in the industry.
 
@@ -8,5 +8,4 @@ What is a “Amazon WorkSpace Spot Check”
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
 [Video Training]: http://training.liquidwarelabs.com/products/stratusphere
 
-Stratusphere UX™ - Available for deployment in the Amazon WorkSpace Interface
 --------------
