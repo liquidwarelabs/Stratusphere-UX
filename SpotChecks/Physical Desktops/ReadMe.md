@@ -7,3 +7,4 @@ What is a “Physical Desktop Spot Check”
 
 [getting started]: https://liquidwarelabs.zendesk.com/hc/en-us/articles/210641983-Stratusphere-UX-Documentation
 [Video Training]: http://training.liquidwarelabs.com/products/stratusphere
+--------------
