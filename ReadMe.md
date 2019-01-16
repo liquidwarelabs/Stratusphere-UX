@@ -25,6 +25,3 @@ Get Stratusphere UX™
 
 [Downloads]: http://www.liquidware.com/download
 [logo]: https://avatars3.githubusercontent.com/u/24906944?v=3&s=200
-
-
-
